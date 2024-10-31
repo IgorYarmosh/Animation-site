@@ -1,0 +1,1 @@
+Adaptive layout of a commercial website. In this project used: illustrative animation of the movement of objects and text, showing / hiding elements in animation, the appearance of a model window for data entry when clicking and then sending data to the mail.
